@@ -1,7 +1,7 @@
-Awesome TODO APP!
+### Awesome TODO APP!
+#### EN PROCESO!
+##### Autor: Diego machado
+###### Programador: Christiams Sena
+##### Supervisor: Diego Machado
 
-Autor: Diego machado
-desarrollador: Christiams Sena
-Supervisor: Diego Machado
-
-enero 2023 - EN PROCESO!
+###### enero 2023
